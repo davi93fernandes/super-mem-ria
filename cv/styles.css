@@ -1,0 +1,47 @@
+body {
+    width: 50%;
+    padding: 65px;
+
+    background-color: rgba(97, 230, 230, 0.478);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 1%;
+    border-radius: 20px;
+    border-color: blue;
+    border-style: groove;
+}
+
+h1 {
+    background-color: rgb(52, 103, 148);
+    margin-left: 10%;
+    margin-right: 0%;
+    padding-left: 35%;
+}
+
+h3 {
+    margin-left: 10%;
+}
+
+p {
+    margin-left: 5%
+}
+
+#infos-pessoais {
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    border-style: groove;
+    border-color: rgb(123, 81, 189)
+}
+
+#objetivo {
+
+    border-radius: 10px;
+    border-style: groove;
+    border-color: rgb(123, 81, 189)
+}
+
+img {
+    size: 100px;
+}
